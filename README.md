@@ -13,3 +13,5 @@ Packages:
 - st
 - xss-lock
 ------------------
+DWM-nicodxm
+- Moving stack using CTRL+J / CTRL+K
