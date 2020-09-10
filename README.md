@@ -13,5 +13,4 @@ Packages:
 - st
 - xss-lock
 ------------------
-DWM-nicodxm
-- Moving stack using CTRL+J / CTRL+K
+To install dwm, st, dmenu and slock you simply need to have build tools and: sudo make clean install
