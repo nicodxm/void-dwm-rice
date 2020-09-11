@@ -11,11 +11,12 @@ Apps:
 - dwm
 - dmenu
 - st
-- connman
+- connman (wifi manager)
+- LSD
 ------------------
 Package installation:
 ```shell
-$ xbps-install -Sy nvim texlive-bin evince firefox xss-lock connman void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree alsa-utils pulseaudio xdg-utils
+$ xbps-install -Sy nvim texlive-bin evince firefox xss-lock connman void-repo-nonfree void-repo-multilib void-repo-multilib-nonfree alsa-utils pulseaudio xdg-utils lsd
 ```
 ------------------
 To install dwm, st, dmenu and slock you simply need to have build tools and: sudo make clean install
